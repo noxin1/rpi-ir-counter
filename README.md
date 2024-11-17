@@ -12,10 +12,10 @@ Software Requirements
 * python3-pyfiglet
 
 Ramp Components
-1 x 12 inch x 36 inch shelf https://www.homedepot.com/p/Everbilt-12-in-W-x-36-in-D-White-Laminate-Decorative-Wall-Shelf-3967015HDS/328395739 Make sure it's smooth and the objects will slide well
-2 x 36 inch Angle iron https://www.homedepot.com/p/Everbilt-1-1-2-in-x-36-in-Aluminum-Angle-with-1-8-in-Thick-801407/204273991 You can maybe use 1", but some objects may tumble over the edge
+* 1 x 12 inch x 36 inch shelf https://www.homedepot.com/p/Everbilt-12-in-W-x-36-in-D-White-Laminate-Decorative-Wall-Shelf-3967015HDS/328395739 Make sure it's smooth and the objects will slide well
+* 2 x 36 inch Angle iron https://www.homedepot.com/p/Everbilt-1-1-2-in-x-36-in-Aluminum-Angle-with-1-8-in-Thick-801407/204273991 You can maybe use 1", but some objects may tumble over the edge
 Wood or some other material to make the legs for the ramp
-3 clamps or some other attachment to secure the 3d printed components
+* 3 clamps or some other attachment to secure the 3d printed components
 
 3D Printed components
 * 2 x Ramp Feet
